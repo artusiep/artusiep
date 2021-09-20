@@ -2,7 +2,7 @@
 - 👀 I’m interested in Big Data technologies and Cloud Computing
 - 🌱 I’m currently learning Computer Vision and GCP
 - 📫 artursiepietowski@gmail.com
-- 🔗 siepietowski.pl
+- 🔗 www.siepietowski.pl
 - 🔗 https://www.linkedin.com/in/artur-siepietowski/
 
 <!---
