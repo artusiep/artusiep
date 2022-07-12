@@ -1,6 +1,6 @@
 - 👋 Hi, I’m artur Siepietowski
 - 👀 I’m interested in Big Data technologies and Cloud Computing
-- 🌱 I’m currently learning Computer Vision and GCP
+- 🌱 I’m currently learning Python Async and GCP
 - 📫 artursiepietowski@gmail.com
 - 🔗 www.siepietowski.pl
 - 🔗 https://www.linkedin.com/in/artur-siepietowski/
